@@ -264,7 +264,6 @@ function App() {
     }))
   }
 
-
   return (
     <div>
       <Banner />
